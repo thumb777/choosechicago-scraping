@@ -1,0 +1,31 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Scrapy specific files
+scrapy.cfg
+*.egg-info/
+dist/
+build/
+
+# Database files
+*.sqlite3
+*.db
+
+# Logs
+*.log
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
